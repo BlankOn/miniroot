@@ -1,6 +1,6 @@
-main/b/busybox/busybox-static_1.22.0-9+deb8u1
+main/b/busybox/busybox-static_1.22.0-19
 /bin/busybox
-main/g/glibc/libc6_2.19-18+deb8u4
+main/g/glibc/libc6_2.22-13
 /lib/ld-linux-armhf.so.3
-/lib/arm-linux-gnueabihf/libc-2.19.so 
+/lib/arm-linux-gnueabihf/libc-2.22.so 
 /lib/arm-linux-gnueabihf/ld-linux-armhf.so.3 
